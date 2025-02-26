@@ -2,7 +2,7 @@
 # **Amazon Sales Analysis and Forecasting for 2025** 🚀  
 
 ## **📌 Project Overview**  
-This project analyzes Amazon sales data using **Python and SQL** to uncover key trends in **ratings, pricing, customer reviews, and discount patterns**. By leveraging **time-series forecasting**, we provide insights to optimize sales strategies for 2025.  
+This project analyzes Amazon sales data using **Python and SQL** to uncover key trends in **ratings, pricing, customer reviews, and discount patterns**. By leveraging **time-series forecasting**, I'll provide insights to optimize sales strategies for 2025.  
 
 ---
 
@@ -68,4 +68,4 @@ This project analyzes Amazon sales data using **Python and SQL** to uncover key 
 
 ---
 
-This format ensures clarity and professionalism while keeping it **copy-paste friendly**. Let me know if you need any modifications! 🚀😊
+
