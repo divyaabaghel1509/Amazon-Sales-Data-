@@ -27,8 +27,7 @@ This project analyzes Amazon sales data using **Python and SQL** to uncover key 
 📌 **Environment:** Jupyter Notebook  
 📌 **Data Manipulation:** Pandas, NumPy  
 📌 **Visualization:** Matplotlib, Seaborn  
-📌 **Forecasting Models:** Statsmodels (ARIMA), Prophet  
-📌 **Machine Learning:** Scikit-learn  
+
 
 ---
 
@@ -47,12 +46,8 @@ This project analyzes Amazon sales data using **Python and SQL** to uncover key 
 🔹 **Regional sales performance**  
 🔹 **Impact of product ratings on sales**  
 
-### **3️⃣ Time-Series Forecasting for 2025**  
-📊 **ARIMA model** for future sales prediction  
-📊 **Prophet model** for seasonality analysis  
-📊 **Comparison of forecasted vs. actual sales**  
-
-### **4️⃣ Business Insights & Conclusion**  
+  
+### **3 Business Insights & Conclusion**  
 📌 Identify **high-performing products and regions**  
 📌 Recognize **seasonal demand trends**  
 📌 Predict **future revenue growth & inventory needs**  
